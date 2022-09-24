@@ -1,5 +1,5 @@
 # landingPage
-Responsive website project using Html5, CSS3 And Bootstrap 5
+## Responsive website project using Html5, CSS3 And Bootstrap 5
 ## Web version
 <img src="./images/landingPage_print.png" width= "500px">
 
